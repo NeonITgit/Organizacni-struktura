@@ -1,0 +1,414 @@
+{
+  "kategorie" : [
+    {
+      "nazev" : "VEDENÍ SPOLEČNOSTI",
+      "podkategorie" : [
+        {
+          "nazev" : "VRCHOLOVÉ VEDENÍ",
+          "osoby" : [
+            {
+              "jmeno" : "Ondřej",
+              "prijmeni" : "Němeček",
+              "funkce" : [
+                { "nazev" : "CEO" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "VÝKONNÉ VEDENÍ",
+          "osoby" : [
+            {
+              "jmeno" : "Jana",
+              "prijmeni" : "Trachtová",
+              "funkce" : [
+                { "nazev" : "COO" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "FINANCE",
+          "osoby" : [
+            {
+              "jmeno" : "Ondřej",
+              "prijmeni" : "Němeček",
+              "funkce" : [
+                { "nazev" : "CFO" }
+              ]
+            },
+            {
+              "jmeno" : "Magdalena",
+              "prijmeni" : "Brejchová",
+              "funkce" : [
+                { "nazev" : "finance controller" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nazev" : "BACK OFFICE",
+      "podkategorie" : [
+        {
+          "nazev" : "ADMINISTRATIVNÍ PODPORA",
+          "osoby" : [
+            {
+              "jmeno" : "Jana",
+              "prijmeni" : "Trachtová",
+              "funkce" : [
+                { "nazev" : "back office manager" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "VNITŘNÍ ORGANIZACE, NÁKUPY",
+          "osoby" : [
+            {
+              "jmeno" : "Magdalena",
+              "prijmeni" : "Brejchová",
+              "funkce" : [
+                { "nazev" : "back office assistant" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nazev" : "OBCHOD",
+      "podkategorie" : [
+        {
+          "nazev" : "PŘÍPRAVA STRATEGIE, PRODEJ, PÉČE O ZÁKAZNÍKY",
+          "osoby" : [
+            {
+              "jmeno" : "Ondřej",
+              "prijmeni" : "Němeček",
+              "funkce" : [
+                { "nazev" : "CSO" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nazev" : "MARKETING A PR",
+      "podkategorie" : [
+        {
+          "nazev" : "FACE 2 FACE PR, ONLINE PR, FIREMNI IMAGE",
+          "osoby" : [
+            {
+              "jmeno" : "Jana",
+              "prijmeni" : "Trachtová",
+              "funkce" : [
+                { "nazev" : "marketing manager" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nazev" : "HUMAN RESOURCES",
+      "podkategorie" : [
+        {
+          "nazev" : "NÁBOR",
+          "osoby" : [
+            {
+              "jmeno" : "Jana",
+              "prijmeni" : "Trachtová",
+              "funkce" : [
+                { "nazev" : "HR manager" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "PÉČE O ZAMĚSTNANCE",
+          "osoby" : [
+            {
+              "jmeno" : "Magdalena",
+              "prijmeni" : "Brejchová",
+              "funkce" : [
+                { "nazev" : "benefity" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nazev" : "DELIVERY / KOMPETENCE",
+      "pod_nazev" : "O. Němeček, CTO",
+      "podkategorie" : [
+        {
+          "nazev" : "JAVA DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Tomáš",
+              "prijmeni" : "Štěstí",
+              "funkce" : [
+                { "nazev" : "head" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "BIG DATA DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Michal",
+              "prijmeni" : "Píše",
+              "funkce" : [
+                { "nazev" : "head" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "C/C++, PYTHON DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Vojta",
+              "prijmeni" : "Šváb",
+              "funkce" : [
+                { "nazev" : "head" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "iBMD TEAM",
+          "osoby" : null
+        },
+        {
+          "nazev" : "PanNET TEAM",
+          "osoby" : null
+        },
+        {
+          "nazev" : "TESTING TEAM",
+          "osoby" : null
+        }
+      ]
+    }
+  ],
+  "pobocky" : [
+    {
+      "nad_nazev" : "ZÁZEMÍ PRO NEOŇÁKY",
+      "nazev" : "POBOČKA PRAHA",
+      "pod_nazev" : "J. Trachtová, branch manager",
+      "podkategorie" : [
+        {
+          "nazev" : "JAVA DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Tomáš",
+              "prijmeni" : "Štěstí",
+              "funkce" : [
+                { "nazev" : "Senior Java developer" }
+              ]
+            },
+            {
+              "jmeno" : "Tomáš",
+              "prijmeni" : "Tůma",
+              "funkce" : [
+                { "nazev" : "Senior Java developer" }
+              ]
+            },
+            {
+              "jmeno" : "Jiří",
+              "prijmeni" : "Jasoněk",
+              "funkce" : [
+                { "nazev" : "Senior Java developer" }
+              ]
+            },
+            {
+              "jmeno" : "David",
+              "prijmeni" : "Haffner",
+              "funkce" : [
+                { "nazev" : "Java developer" }
+              ]
+            },
+            {
+              "jmeno" : "Jakub",
+              "prijmeni" : "Neidl",
+              "funkce" : [
+                { "nazev" : "Java developer" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "BIG DATA DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Michal",
+              "prijmeni" : "Píše",
+              "funkce" : [
+                { "nazev" : "Senior Big Data developer" }
+              ]
+            },
+            {
+              "jmeno" : "Jan",
+              "prijmeni" : "Bauer",
+              "funkce" : [
+                { "nazev" : "Senior Big Data developer" }
+              ]
+            },
+            {
+              "jmeno" : "Vojta",
+              "prijmeni" : "Kuthan",
+              "funkce" : [
+                { "nazev" : "Senior Big Data developer" }
+              ]
+            },
+            {
+              "jmeno" : "Martin",
+              "prijmeni" : "Růžička",
+              "funkce" : [
+                { "nazev" : "Senior Big Data developer" }
+              ]
+            },
+            {
+              "jmeno" : "Martin",
+              "prijmeni" : "Šály",
+              "funkce" : [
+                { "nazev" : "Senior Big Data developer" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "C/C++, PYTHON DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Vojta",
+              "prijmeni" : "Šváb",
+              "funkce" : [
+                { "nazev" : "Senior C/C++ developer" }
+              ]
+            },
+            {
+              "jmeno" : "Matyáš",
+              "prijmeni" : "Hollman",
+              "funkce" : [
+                { "nazev" : "Senior C/C++ developer" }
+              ]
+            },
+            {
+              "jmeno" : "Filip",
+              "prijmeni" : "Beránek",
+              "funkce" : [
+                { "nazev" : "Senior Python developer" }
+              ]
+            },
+            {
+              "jmeno" : "Luděk",
+              "prijmeni" : "Horák",
+              "funkce" : [
+                { "nazev" : "Senior Python developer" }
+              ]
+            },
+            {
+              "jmeno" : "Martin",
+              "prijmeni" : "Kubán",
+              "funkce" : [
+                { "nazev" : "Senior Python developer" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "iBMD TEAM",
+          "osoby" : [
+            {
+              "jmeno" : "Milan",
+              "prijmeni" : "Zíka",
+              "funkce" : [
+                { "nazev" : "Senior iBMD developer" }
+              ]
+            },
+            {
+              "jmeno" : "Tomáš",
+              "prijmeni" : "Zatíranda",
+              "funkce" : [
+                { "nazev" : "iBMD developer" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "PanNET TEAM",
+          "osoby" : [
+            {
+              "jmeno" : "Luboš",
+              "prijmeni" : "Moravec",
+              "funkce" : [
+                { "nazev" : "Senior PanNET specialist" }
+              ]
+            },
+            {
+              "jmeno" : "Emir",
+              "prijmeni" : "Ekinovic",
+              "funkce" : [
+                { "nazev" : "Senior PanNET specialist" }
+              ]
+            },
+            {
+              "jmeno" : "Michal",
+              "prijmeni" : "Kopecký",
+              "funkce" : [
+                { "nazev" : "PanNET specialist" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "TESTING TEAM",
+          "osoby" : null
+        }
+      ]
+    },
+    {
+      "nad_nazev" : "ZÁZEMÍ PRO NEOŇÁKY",
+      "nazev" : "POBOČKA BRNO",
+      "pod_nazev" : "J. Šiller, branch manager",
+      "pod_kategorie" : [
+        {
+          "nazev" : "JAVA DEVELOPMENT",
+          "osoby" : [
+            {
+              "jmeno" : "Jakub",
+              "prijmeni" : "Šiller",
+              "funkce" : [
+                { "nazev" : "Senior Java developer" }
+              ]
+            },
+            {
+              "jmeno" : "Martin",
+              "prijmeni" : "Hronský",
+              "funkce" : [
+                { "nazev" : "Senior Java developer" }
+              ]
+            }
+          ]
+        },
+        {
+          "nazev" : "TESTING TEAM",
+          "osoby" : [
+            {
+              "jmeno" : "Kamil",
+              "prijmeni" : "Varga",
+              "funkce" : [
+                { "nazev" : "Senior Test Engineer" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

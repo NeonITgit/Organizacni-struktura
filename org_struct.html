@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>  
+      var canvas = document.getElementById('DemoCanvas');
+      //Always check for properties and methods, to make sure your code doesn't break in other browsers.
+      if (canvas.getContext) 
+       {
+        var context = canvas.getContext('2d');
+        context.fillStyle = 'blue';
+        // Reset the current path
+        context.beginPath(); 
+        // Staring point (10,45)
+         context.moveTo(10,45);
+        // End point (180,47)
+        context.lineTo(180,47);
+        // Make the line visible
+        context.stroke();
+         }
+      </script> 
+    <style>
+      body {
+        height: 1000px;
+      }
+      #header {
+        background-color : #2F433A;
+        height: 35%;
+        overflow: hidden;
+      }
+      #header-content {
+        padding-top: 1%;
+        padding-left: 4%;
+      }
+      #header-content-left {
+        float:left;
+      }
+      #header-content-right {
+        border: #8DC741;
+        float:right;
+      }
+      
+      .light-green-text {
+        color: #8DC741;
+      }
+      .white-text {
+        color: #FFFFFF;
+      }
+      .upper-bold {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 300%;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <div id="header-content">
+        <div id="header-content-left">
+          <p class="light-green-text upper-bold">ORGANIZČNÍ STRUKTURA</p>
+          <p class="white-text upper-bold">2022</p>
+        </div>
+        <div id="header-content-right">
+          <canvas id="LogoCanvas" width="400" height="400"></canvas>  
+        </div>  
+      </div>
+    </div>
+
+    <div class="color : white;"></div>
+    
+  </body>
+</html>
